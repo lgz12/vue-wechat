@@ -3,6 +3,15 @@
 
 项目地址 `https://github.com/lgz12/vue-wechat.git`
 
+## 项目运行
+git clone https://github.com/lgz12/vue-wechat.git
+
+cd vue-wechat
+
+npm install
+
+npm run dev (访问本地，运行后访问 http://localhost:8080)
+
 ## 手机预览
 
 ![https://sinacloud.net/vue-wechat/images/demo-qrcode-gitee.png](https://sinacloud.net/vue-wechat/images/demo-qrcode-gitee.png)
