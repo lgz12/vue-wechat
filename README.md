@@ -6,7 +6,7 @@
 ## 手机预览
 
 ![https://sinacloud.net/vue-wechat/images/demo-qrcode-gitee.png](https://sinacloud.net/vue-wechat/images/demo-qrcode-gitee.png)
-![https://sinacloud.net/vue-wechat/images/demo-qrcode-gitee.png](https://sinacloud.net/vue-wechat/images/demo-qrcode-gitee.png)
+![https://github.com/lgz12/vue-wechat/blob/master/vue-WeChat/src/assets/images/head.jpg](https://github.com/lgz12/vue-wechat/blob/master/vue-WeChat/src/assets/images/head.jpg)
 ## 技术相关
 
 * [vue-WeChat Wiki](https://github.com/zhaohaodang/vue-WeChat/wiki) 中记录了开发此项目需要的知识储备、开发思路、开发利器等。内容会不断更新，实际上想把它建成个人快速开发的代码库。
