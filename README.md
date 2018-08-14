@@ -4,7 +4,7 @@
 项目地址 `https://github.com/lgz12/vue-wechat.git`
 
 ## 项目运行
-git clone 'https://github.com/lgz12/vue-wechat.git'
+git clone `https://github.com/lgz12/vue-wechat.git`
 
 cd vue-wechat
 
