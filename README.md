@@ -1,4 +1,4 @@
-# 基于Vue2.0高仿微信App的单页应用
+# 仿微信App的单页应用
 ## 概述
 
 项目地址 `https://github.com/lgz12/vue-wechat.git`
