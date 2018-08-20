@@ -470,6 +470,7 @@
     .aimg{
          width: 30px;
         height: 24px;
+        margin-right: 15px;
     }
     .toolbar{
         width: 350px;
