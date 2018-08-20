@@ -6,8 +6,10 @@
 ## 项目运行
 >克隆项目：
 >>git clone `'https://github.com/lgz12/vue-wechat.git'`
+
 >安装配置文件：
 >>npm install
+
 >运行项目：
 >>npm run dev (访问本地，运行后访问 http://localhost:8080)
 
