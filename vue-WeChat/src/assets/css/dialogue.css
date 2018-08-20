@@ -4,7 +4,7 @@
     top: 45px;
   height: auto;
   min-height: 100%;
-  background: url('https://sinacloud.net/vue-wechat/images/bg/alarm.jpg') center center;
+  background: url('../images/find-bg.png') center center;
   padding: 2%;
 background-size: cover;  
 background-repeat:no-repeat;  

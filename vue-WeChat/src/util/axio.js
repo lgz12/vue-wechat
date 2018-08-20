@@ -75,7 +75,7 @@ export default {
   get (url, params) {
     return axios({
       method: 'get',
-      url: 'https://www.easy-mock.com/mock/5b5594f9a9db0b2cbee7efce/test' + url,
+      url: 'https://www.easy-mock.com/mock/5b5594f9a9db0b2cbee7efce/test',
       params, // get 请求时带的参数
       timeout: 5000,
       headers: {

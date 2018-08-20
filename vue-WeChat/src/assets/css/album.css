@@ -2,7 +2,7 @@
   background: #fff;
   bottom: inherit;
   height: inherit;
-  min-width: 420px;
+  /* min-width: 420px; */
 }
 .album .home-pic {
   width: 100%;

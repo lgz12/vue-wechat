@@ -92,8 +92,6 @@ export default {
     },
     getData() {
       let self = this
-      var a = self.$store.state.msgList.baseMsg
-      console.log(a)
       self.$axio
         .get('', 'id=1')
 
