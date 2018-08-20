@@ -1,16 +1,15 @@
 # 仿微信App的单页应用
 ## 概述
 
-项目地址 `https://github.com/lgz12/vue-wechat.git`
+>项目地址 `https://github.com/lgz12/vue-wechat.git`
 
 ## 项目运行
-git clone `'https://github.com/lgz12/vue-wechat.git'`
-
-cd vue-wechat
-
-npm install
-
-npm run dev (访问本地，运行后访问 http://localhost:8080)
+>克隆项目：
+>>git clone `'https://github.com/lgz12/vue-wechat.git'`
+>安装配置文件：
+>>npm install
+>运行项目：
+>>npm run dev (访问本地，运行后访问 http://localhost:8080)
 
 ## 手机预览
 
