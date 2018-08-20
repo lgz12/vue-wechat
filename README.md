@@ -13,6 +13,12 @@
 >运行项目：
 >>npm run dev (访问本地，运行后访问 http://localhost:8080)
 
+>打包发布
+>>npm run build
+
+>运行情况分析报告
+>>npm run build --report
+
 ## 手机预览
 
 ![https://sinacloud.net/vue-wechat/images/demo-qrcode-gitee.png](https://sinacloud.net/vue-wechat/images/demo-qrcode-gitee.png)
