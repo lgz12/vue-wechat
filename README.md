@@ -21,7 +21,7 @@
 
 ## 手机预览
 
-![https://sinacloud.net/vue-wechat/images/demo-qrcode-gitee.png](https://sinacloud.net/vue-wechat/images/demo-qrcode-gitee.png)
+![./1534820384.png](./1534820384.png)
 
 ## 功能演示
 ![视频](./wechat.gif)
