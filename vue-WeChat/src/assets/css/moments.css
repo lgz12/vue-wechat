@@ -157,7 +157,7 @@
 #moments .moments__post .actionToggle {
   width: 15px;
   height: 15px;
-  background: #92abd4;
+  /* background: #92abd4; */
   margin-left: auto;
   border-radius: 1px;
   position: absolute;

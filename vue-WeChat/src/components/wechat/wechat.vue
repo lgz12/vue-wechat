@@ -132,16 +132,16 @@ export default {
             if (distanceY < 0) {
               //下滑
 
-              if (Math.abs(distanceY) >= Math.abs(distanceX)) {
+              if (distanceY <= distanceX) {
                 if (Math.abs(distanceY) < 110 && Math.abs(distanceY) > 20) {
                   e.preventDefault()
                   element.style.transition = '0.5s'
                   element.style.marginTop = 110 + 'px'
                   isTouchMove = true
                 }
-              } else {
+              } else if(endTy>startTy||distanceY>0){
                 //上滑
-
+                console.log('1')
                 e.preventDefault()
                 element.style.transition = '0.5s'
                 element.style.marginTop = 0 + 'px'
@@ -197,16 +197,16 @@ label{
     -webkit-line-clamp:2;
 }
 .box1,.label1{
-  left: 50px;
+  left: 5%;
 }
 .box2,.label2 {
-  left: 150px;
+  left: 28%;
 }
 .box3,.label3 {
-  left: 250px;
+  left: 51%;
 }
 .box4,.label4 {
-  left: 350px;
+  left: 74%;
 }
 .drag {
   width: 100px;

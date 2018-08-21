@@ -30,7 +30,7 @@
                     <span>LDY</span>
                 </a>
                 <!-- post内容 -->
-                <p id="paragraph" class="paragraph">测试 测试 测试 测试 测试 测试 测试 测试 测试</p>
+                <p id="paragraph" class="paragraph">测试 测试 测试 测试 测试</p>
                 <!-- 伸张链接 -->
                 <!-- <a id="paragraphExtender" class="paragraphExtender">显示全文</a> -->
                 <!-- 相册 -->
@@ -470,9 +470,9 @@
     .aimg{
          width: 30px;
         height: 24px;
-        margin-right: 15px;
+        margin-right: 37px;
     }
     .toolbar{
-        width: 350px;
+        width: 100%;
     }
 </style>

@@ -326,7 +326,7 @@
         right: 0px;
     }
     .toolbar{
-        width: 350px;
+        width: 100%;
     }
 
     .picture{

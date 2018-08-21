@@ -250,7 +250,7 @@ table tr td {
 }
 
 .mcenter {
-  margin-left: 25px;
+  margin-left: 7%;
   width: 25%;
   height: 25%;
   border: 1px solid #666f76;
@@ -282,7 +282,7 @@ table tr td {
   right: 0px;
 }
 .toolbar {
-  width: 350px;
+  width: 100%;
 }
 
 .picture {
